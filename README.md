@@ -8,3 +8,7 @@ Designed to allow users to rediscover forgotton songs in large and diverse music
 <img src="https://github.com/AshnaJagadisan/Newsic/blob/main/Screenshots/lightMode2.png" alt="Light Mode" width="250"/>
 ![Alt text](Screenshots/lightMode2.png?raw=true "Light Mode")
 ![Alt text](Screenshots/darkMode1.png?raw=true "Dark Mode")
+
+Dark Mode             |  Light Mode
+:-------------------------:|:-------------------------:
+![](https://github.com/AshnaJagadisan/Newsic/blob/main/Screenshots/darkMode1.png)  |  ![](https://github.com/AshnaJagadisan/Newsic/blob/main/Screenshots/lightMode2.png)
